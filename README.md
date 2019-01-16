@@ -1,6 +1,7 @@
 # Javascript-Programmimng
 
-**Winter Programming Summative**
+Winter Programming Summative
+============================
 
 
 About the Sketch
