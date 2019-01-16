@@ -35,7 +35,7 @@ Game Tips
 
 - As you get more points with a longer chain, avoid clicking anywhere near the middle.
 - Try to pick out the slower-moving balls first.
-
+- E-mail me if you beat my total score of 99999999 (I played the beta).
 License
 -------
 
